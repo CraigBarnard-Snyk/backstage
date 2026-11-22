@@ -18,6 +18,9 @@
     "write-translations": "docusaurus-write-translations"
   },
   "prettier": "@backstage/cli/config/prettier",
+  "resolutions": {
+    "compression": "1.8.2"
+  },
   "dependencies": {
     "@docusaurus/core": "^3.1.1",
     "@docusaurus/plugin-client-redirects": "^3.1.1",
